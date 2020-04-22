@@ -24,6 +24,7 @@
 * Configurable serial ports for Serial RX, Telemetry, MSP, GPS - Use most devices on any port, softserial too.
 * Multi-color RGB LED Strip support (each LED can be a different color using variable length WS2811 Addressable RGB strips - use for Orientation Indicators, Low Battery Warning, Flight Mode Status, etc)
 * PIDs from CF/BF can be used in INAV, no need to retune for INAV
+* Remote Audio player to share message on HP from aircraft    
 * And many more!
 
 For a list of features, changes and some discussion please review consult the releases [page](https://github.com/iNavFlight/inav/releases) and the documentation.
