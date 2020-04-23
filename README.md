@@ -1,5 +1,5 @@
 ![INAV](http://static.rcgroups.net/forums/attachments/6/1/0/3/7/6/a9088858-102-inav.png)
-![Travis CI status](https://travis-ci.org/iNavFlight/inav.svg?branch=master)
+![Travis CI status](https://travis-ci.com/Xelack/inav-F3-Ext.svg?branch=master)
 
 # This project is fork from INAV V2.1.0 - navigation capable flight controller 
 
@@ -65,7 +65,7 @@ Don't hesited to send me your questions or remarks :)
 * PIDs from CF/BF can be used in INAV, no need to retune for INAV
 * And many more!
 
-For a list of features, changes and some discussion please review consult the releases [page](https://github.com/iNavFlight/inav/releases) and the documentation.
+For a list of features, changes and some discussion please review consult the releases [page](https://github.com/Xelack/inav-F3-Ext/releases) and the documentation.
 
 ## Tools
 
@@ -87,15 +87,13 @@ Users of FrSky Taranis X9 and Q X7 can use INAV Lua Telemetry screen created by 
 
 ## Installation
 
-See: https://github.com/iNavFlight/inav/blob/master/docs/Installation.md
+See: https://github.com/Xelack/inav-F3-Ext/blob/master/docs/Introduction.md
 
 ## Documentation, support and learning resources
 
-* [Official documentation](https://github.com/iNavFlight/inav/tree/master/docs)
-* [Official Wiki](https://github.com/iNavFlight/inav/wiki)
-* [INAV Official on Telegram](https://t.me/INAVFlight)
-* [INAV Official on Facebook](https://www.facebook.com/groups/INAVOfficial)
-* [RC Groups Support](https://www.rcgroups.com/forums/showthread.php?2495732-Cleanflight-iNav-(navigation-rewrite)-project)
+* [Official documentation](https://github.com/Xelack/inav-F3-Ext/tree/master/docs)
+* [Official Wiki](https://github.com/Xelack/inav-F3-Ext/wiki)
+* [INAV Official on Gitter](https://gitter.im/inav-F3-Ext/)
 * [Video series by Painless360](https://www.youtube.com/playlist?list=PLYsWjANuAm4qdXEGFSeUhOZ10-H8YTSnH)
 * [Video series by Paweł Spychalski](https://www.youtube.com/playlist?list=PLOUQ8o2_nCLloACrA6f1_daCjhqY2x0fB)
 
@@ -110,19 +108,17 @@ Contributions are welcome and encouraged.  You can contribute in many ways:
 * Telling us your ideas and suggestions.
 * Buying your hardware from this [link](https://inavflight.com/shop/u/bg/)
 
-A good place to start is Telegram channel or Facebook group. Drop in, say hi.
+A good place to start is Gitter Room. Drop in, say hi.
 
 Github issue tracker is a good place to search for existing issues or report a new bug/feature request:
 
 https://github.com/Xelack/inav-F3-Ext/inav/issues
 
-https://github.com/iNavFlight/inav-configurator/issues
-
 Before creating new issues please check to see if there is an existing one, search first otherwise you waste peoples time when they could be coding instead!
 
 ## Developers
 
-Please refer to the development section in the [docs/development](https://github.com/iNavFlight/inav/tree/master/docs/development) folder.
+Please refer to the development section in the [docs/development](https://github.com/Xelack/inav-F3-Ext/tree/master/docs/development) folder.
 
 
 ## INAV Releases
@@ -130,6 +126,6 @@ https://github.com/Xelack/inav-F3-Ext/releases
 
 # Special Thanks !
 
-To INAV community for the very good job realise and more for sharing it with the world !!!!!!!
+Thanks a lot "INAV" for the very good job realise and more for sharing it with the world !!!!!!!
 
-
+[Please excuse my bad english but I work on it!]
