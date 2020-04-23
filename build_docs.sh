@@ -36,6 +36,7 @@ doc_files=(
 	'Board - Sparky.md'
 	'Board - RMDO.md'
 	'Board - SPRacingF3.md'
+	'Board - RACE32F3.md'
 )
 
 if which gimli >/dev/null; then
