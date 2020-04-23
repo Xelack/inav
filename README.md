@@ -1,5 +1,5 @@
-//![INAV](http://static.rcgroups.net/forums/attachments/6/1/0/3/7/6/a9088858-102-inav.png)
-//![Travis CI status](https://travis-ci.org/iNavFlight/inav.svg?branch=master)
+![INAV](http://static.rcgroups.net/forums/attachments/6/1/0/3/7/6/a9088858-102-inav.png)
+![Travis CI status](https://travis-ci.org/iNavFlight/inav.svg?branch=master)
 
 # This project is fork from INAV V2.1.0 - navigation capable flight controller 
 
@@ -42,7 +42,7 @@ I hope to found quickly collaborators to work on this projet, I'll enable the de
 
 Don't hesited to send me your questions or remarks :)
 
-## Features from inherited from INAV
+## Features inherited from INAV
 
 * Outstanding navigation performance out of the box
 * Position Hold, Altitude Hold, Return To Home and Missions
@@ -63,7 +63,6 @@ Don't hesited to send me your questions or remarks :)
 * Configurable serial ports for Serial RX, Telemetry, MSP, GPS - Use most devices on any port, softserial too.
 * Multi-color RGB LED Strip support (each LED can be a different color using variable length WS2811 Addressable RGB strips - use for Orientation Indicators, Low Battery Warning, Flight Mode Status, etc)
 * PIDs from CF/BF can be used in INAV, no need to retune for INAV
-* Remote Audio player to share message on HP from aircraft    
 * And many more!
 
 For a list of features, changes and some discussion please review consult the releases [page](https://github.com/iNavFlight/inav/releases) and the documentation.
