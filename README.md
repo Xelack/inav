@@ -1,7 +1,7 @@
 ![INAV](http://static.rcgroups.net/forums/attachments/6/1/0/3/7/6/a9088858-102-inav.png)
 ![Travis CI status](https://travis-ci.com/Xelack/inav-F3-Ext.svg?branch=master)
 
-# This project is fork from INAV V2.1.0 - navigation capable flight controller 
+# This project was forked from INAV V2.1.0 - navigation capable flight controller 
 
 # The little story of a fork Y ^^
 I'm started this fork based first on my personal need to build a DIY Drone started in 2017 but never endded due to very streng life for greates things... two beautiful childrens lol
@@ -93,7 +93,7 @@ See: https://github.com/Xelack/inav-F3-Ext/blob/master/docs/Introduction.md
 
 * [Official documentation](https://github.com/Xelack/inav-F3-Ext/tree/master/docs)
 * [Official Wiki](https://github.com/Xelack/inav-F3-Ext/wiki)
-* [INAV Official on Gitter](https://gitter.im/inav-F3-Ext/)
+* [INAV-F3-Ext Official on Gitter](https://gitter.im/inav-F3-Ext/)
 * [Video series by Painless360](https://www.youtube.com/playlist?list=PLYsWjANuAm4qdXEGFSeUhOZ10-H8YTSnH)
 * [Video series by Paweł Spychalski](https://www.youtube.com/playlist?list=PLOUQ8o2_nCLloACrA6f1_daCjhqY2x0fB)
 
