@@ -19,10 +19,14 @@
 #define FC_VERSION_MINOR            1  // increment when a minor release is made (small new feature, change etc)
 #define FC_VERSION_PATCH_LEVEL      0  // increment when a bug is fixed
 
+
 #define STR_HELPER(x) #x
 #define STR(x) STR_HELPER(x)
 #define FC_VERSION_STRING STR(FC_VERSION_MAJOR) "." STR(FC_VERSION_MINOR) "." STR(FC_VERSION_PATCH_LEVEL)
 #define FC_FIRMWARE_NAME "INAV"
+
+#define FC_FIRMWARE_EVOL "F3 EXT"
+#define FC_EVOL_VERSION_STRING "1.0.0 RC1"
 
 #define MW_VERSION              231
 

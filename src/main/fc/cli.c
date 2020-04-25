@@ -2592,10 +2592,12 @@ static void cliVersion(char *cmdline)
 {
     UNUSED(cmdline);
 
-    cliPrintLinef("# %s/%s %s %s / %s (%s)",
+    cliPrintLinef("# %s-%s/%s %s %s %s / %s (%s)",
         FC_FIRMWARE_NAME,
+        FC_FIRMWARE_EVOL,
         targetName,
         FC_VERSION_STRING,
+        FC_EVOL_VERSION_STRING,
         buildDate,
         buildTime,
         shortGitRevision
