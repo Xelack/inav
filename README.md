@@ -27,6 +27,7 @@ At this point, three possible options
 
 3 ) Try to add my FC board on version V2.1 witch she have the PARALLELE PWM RX support (so less efforts for myself).
 
+
 # Fork for what?
 For my needs? No! An Idea? YES but to share it with tech' enthousiast peoples like me!
 
